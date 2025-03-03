@@ -1,0 +1,5 @@
+facenet-pytorch==2.6.0
+ultralytics==8.3.78
+ultralytics-thop==2.0.14
+torchvision==0.17.2
+torch==2.2.2
